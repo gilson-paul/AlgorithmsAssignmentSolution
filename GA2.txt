@@ -1,0 +1,14 @@
+a) T (n) = 3T (n/2) + n
+  Answer: Ɵ(nlogn)
+
+b) T (n) = 64T (n/8) - n^2(log n)
+  Answer: Ɵ(n^2 log(1/n))
+
+c) T (n) = 2nT (n/2) + n^n
+  Answer: N/A
+
+d) T (n) = 3T (n/3) + n/2
+  Answer: Ɵ(nlogn)
+
+e) T (n) = 7T (n/3) + n^2
+  Answer: Ɵ(nlogn)
